@@ -11,9 +11,8 @@ Stack
 Python · TypeScript · PyTorch · Next.js · React · Tailwind · AutoGen · Alpaca · QuantConnect · FRED · Supabase
 
 Recent builds
-- [Parkinson's Gait AI](link) — edge deployable ML pipeline, paper accepted
+- [Parkinson's Gait AI](link) — edge deployable ML pipeline accepted
 - [VIX Mean Reversion](([https://www.quantconnect.cloud/backtest/c581c98ec77dc6d9235922f7e581b82d/?theme=chrome](url))) — live on Alpaca
 - [LiftMacro AI](https://lift-macro-ai.lovable.app/coach) — personalized fitness app
 
-Reach me
-[0103.parv@gmail.com] [LinkedIn]((https://www.linkedin.com/in/parv-mehndiratta-700519354/))
+Reach me [0103.parv@gmail.com] [LinkedIn]((https://www.linkedin.com/in/parv-mehndiratta-700519354/))
