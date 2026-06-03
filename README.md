@@ -16,5 +16,4 @@ Recent builds
 - [LiftMacro AI](https://lift-macro-ai.lovable.app/coach) — personalized fitness app
 
 Reach me
-[0103.parv@gmail.com](mailto: 0103.parv@gmail.com) · 
-[LinkedIn]((https://www.linkedin.com/in/parv-mehndiratta-700519354/))
+[0103.parv@gmail.com] [LinkedIn]((https://www.linkedin.com/in/parv-mehndiratta-700519354/))
